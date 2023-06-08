@@ -1,18 +1,19 @@
 <h2><b>PROCESS FLOW</b></h2>
 
-![image](https://github.com/Phanhieu1221/momo-payment/assets/98179861/adce3e1e-13ad-42cc-88b2-f9421b1e1041)
+![image](https://github.com/Phanhieu1221/momo-payment/assets/98179861/f219875b-4245-44ff-8359-0fe5afd93174)
 
 <h2><b>Example cardInfo</b></h2>
 
-![image](https://github.com/Phanhieu1221/momo-payment/assets/98179861/aef47368-67b2-4e71-a137-459606182913)
+![image](https://github.com/Phanhieu1221/momo-payment/assets/98179861/7335c213-b73c-4f43-bfda-195a0d6d96a8)
 
 <h2><b>Example Request body</b></h2>
 
-![image](https://github.com/Phanhieu1221/momo-payment/assets/98179861/a4a7568a-eacd-4b22-a7b4-79957db99cc3)
+![image](https://github.com/Phanhieu1221/momo-payment/assets/98179861/aaeb3953-9d13-408d-ba8b-4c26dca4dc17)
+
 
 <h2><b>Example response</b></h2>
 
-![image](https://github.com/Phanhieu1221/momo-payment/assets/98179861/bdee7618-16d2-44b6-ba82-9cee5d755a35)
+![image](https://github.com/Phanhieu1221/momo-payment/assets/98179861/4b64366a-6b5c-4bec-9cce-99ba3000f3dc)
 
 <h2><b>References:</b></h2>https://developers.momo.vn/
 
